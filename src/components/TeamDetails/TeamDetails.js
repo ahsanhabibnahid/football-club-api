@@ -49,9 +49,9 @@ const TeamDetails = () => {
                     <p className='text-secondary mt-5'>{strDescriptionEN}</p>
                 </div>
                 <div className="icon-bar d-flex justify-content-center">
-                    <a target='_blank' href={'https://' + strFacebook}><img src={facebookIcon} alt="" /></a>
-                    <a target='_blank' href={'https://' + strYoutube}><img src={youtubeIcon} alt="" /></a>
-                    <a target='_blank' href={'https://' + strTwitter} ><img src={twitterIcon} alt="" /></a>
+                    <a  href={'https://' + strFacebook}><img src={facebookIcon} alt="" /></a>
+                    <a  href={'https://' + strYoutube}><img src={youtubeIcon} alt="" /></a>
+                    <a  href={'https://' + strTwitter} ><img src={twitterIcon} alt="" /></a>
                 </div>
             </div>
 
