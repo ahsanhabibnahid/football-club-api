@@ -1,0 +1,11 @@
+.Header {
+	background-image: url('../../images/background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	height: 400px;
+	padding-top: 120px;
+    opacity: 0.80;
+}
+
